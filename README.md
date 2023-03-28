@@ -25,9 +25,12 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-[ORM](https://github.com/prisma/prisma) library ORM
-[ENV](https://github.com/motdotla/dotenv) to save database
-[Swagger](https://swagger.io/) to create documentation API
+
+[ORM](https://github.com/prisma/prisma) library ORM.
+
+[ENV](https://github.com/motdotla/dotenv) to save database.
+
+[Swagger](https://swagger.io/) to create documentation API.
 
 ## Installation
 
